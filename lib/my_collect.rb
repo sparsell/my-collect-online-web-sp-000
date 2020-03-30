@@ -6,3 +6,5 @@ def my_collect(empty_array)
   end
   new_collection
 end
+
+my_collect()
